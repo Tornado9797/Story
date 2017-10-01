@@ -6,3 +6,5 @@ This may very well be the first programming project I've ever completed, and is 
 This was an assignment from my 9th grade computer science glass. The exact details were not digitized, and have since been lost to time, but I'll do my best to recall the process.
 
 The lead-in to this program was to design and use a background and a sprite, and learn how to manipulate these things (this is why the non-sentence parts of this program are the way they are.
+
+Scratch is required to run this program. This requires either downloading the Scratch program or using the browser version.
